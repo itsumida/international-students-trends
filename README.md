@@ -52,6 +52,3 @@ To explore where international students are going, what they are studying, and h
 ![Change Pre vs Post COVID](images/change-pre-post-covid.png)  
 
 ---
-
-## 📂 Repository Structure
-
